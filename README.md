@@ -6,3 +6,5 @@
 - 👩🏻‍💻 Currently, I'm focused on **Python** while enhancing my skills in **Cloud Technologies** and **Cyber Security**
 - 📫 You can get in touch with me by email: skakarski14@gmail.com or [LinkedIn](https://www.linkedin.com/in/stevo-skakarski-936913211/)
 - ⚡ Fun fact: When I’m not coding, I’m probably exploring tech, financial and ecomm blogs and podcasts
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevx14)](https://github.com/anuraghazra/github-readme-stats)
