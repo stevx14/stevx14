@@ -7,4 +7,4 @@
 - 📫 You can get in touch with me by email: skakarski14@gmail.com or [LinkedIn](https://www.linkedin.com/in/stevo-skakarski-936913211/)
 - ⚡ Fun fact: When I’m not coding, I’m probably exploring tech, financial and ecomm blogs and podcasts
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevx14&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevx14&theme=vision-friendly-dark&show_icons=true)
