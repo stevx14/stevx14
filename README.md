@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Stevo Skakarski – a passionate learner diving into the world of programming. 🌱  
+### I'm Stevo Skakarski – a passionate learner diving into the world of programming. 
   
 - 👩🏻‍🎓 Stuyding Information Technologies in Institutional and Corporate Environments
 - 👩🏻‍💻 Currently, I'm focused on **Python** while enhancing my skills in **Cloud Technologies**
